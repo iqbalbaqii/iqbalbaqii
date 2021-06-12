@@ -1,4 +1,4 @@
-- 👋 Hi, I’m iqbal
+- 👋 Hi, I’m iqbal you can call me iq, bale, bal
 - 👀 I’m interested in anything about backend programming
 - 🌱 I’m currently learning laravel
 
