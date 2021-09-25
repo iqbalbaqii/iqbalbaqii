@@ -1,6 +1,4 @@
-- 👋 Hi, I’m iqbal you can call me iq, bale, bal
-- 👀 I’m interested in anything about backend programming
-- 🌱 I’m currently learning laravel
+haaa
 
 <!---
 iqbalbaqii/iqbalbaqii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
